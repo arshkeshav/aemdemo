@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aemsite"/>
+    <filter root="/content/aemsite"/>
+    <filter root="/content/dam/aemsite"/>
+</workspaceFilter>
